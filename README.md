@@ -23,14 +23,14 @@ print(f'The answer is {a}m')
 ## Following is the list of all conversions in the package:
 
 ### Length Conversions
-* - cm to inches (cm2in)
-* - inches to cm (in2cm)
-* - cm to meters (cm2m)
-* - meters to cm (m2cm)
-* - meters to feet (m2ft)
-* - feet to meters (ft2m)
-* - km to miles (km2mi)
-* - miles to km (mi2km)
+*  cm to inches (cm2in)
+*  inches to cm (in2cm)
+*  cm to meters (cm2m)
+*  meters to cm (m2cm)
+*  meters to feet (m2ft)
+*  feet to meters (ft2m)
+*  km to miles (km2mi)
+*  miles to km (mi2km)
 
 ### Weight Conversions
 *  kilograms to pounds (kg2lb)
